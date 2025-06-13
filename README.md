@@ -1,1 +1,1 @@
-https://sbhs-computer-science-academy.github.io/portfolio-template/
+https://milo-85.github.io/Milos-CS-Portfolio/
